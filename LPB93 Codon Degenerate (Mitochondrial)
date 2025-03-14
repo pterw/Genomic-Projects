@@ -38,7 +38,7 @@
     "    \"Met\": ['ATA','ATG'],\n",
     "    \"Val\": ['GTT','GTC','GTA','GTG'],\n",
     "    \"Ser\": ['TCT','TCC','TCA','TCG','AGT','AGC'],\n",
-    "    \"Pro\": ['CCT,','CCC','CCA','CCG'],\n",
+    "    \"Pro\": ['CCT','CCC','CCA','CCG'],\n",
     "    \"Ala\": ['GCT','GCC','GCA','GCG'],\n",
     "    \"Thr\": ['ACT','ACC','ACA','ACG'],\n",
     "    \"Tyr\": ['TAT','TAC'],\n",
